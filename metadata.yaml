@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Shen_Kuo
     - http://zh.wikipedia.org/wiki/%E6%B2%88%E6%8B%AC
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27292#----
 gutenberg_issued: '2008-11-18'
 gutenberg_type: Text
 identifiers:
