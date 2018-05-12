@@ -1,0 +1,33 @@
+_repo: '----_27292'
+_version: 0.1.0
+alternative_title: Mengxi Bi Tan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shen, Kuo
+    aliases:
+    - Shen, Gua
+    - 沈括
+    birthdate: 1031
+    deathdate: 1095
+    gutenberg_agent_id: '2419'
+    url: http://www.gutenberg.org/2009/agents/2419
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Shen_Kuo
+    - http://zh.wikipedia.org/wiki/%E6%B2%88%E6%8B%AC
+description: ''
+gutenberg_issued: '2008-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27292'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'China -- History -- Song dynasty, 960-1279 -- Anecdotes'
+title: 夢溪筆談
+url: http://www.gutenberg.org/ebooks/27292
